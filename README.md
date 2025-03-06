@@ -51,5 +51,5 @@ For a quick preview, you can refer to the `E-commerce Customers Segmentation Das
 
 For any questions or suggestions, feel free to reach out! ✉️
 
-LinkedIn: Rawan Alalweet\
+LinkedIn: [Rawan Alalweet](https://www.linkedin.com/in/rawan-alalweet/)
 Email: [rawan.alalweet@gmail.com](mailto\:rawan.alalweet@gmail.com)
